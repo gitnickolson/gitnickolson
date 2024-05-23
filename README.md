@@ -32,10 +32,5 @@ scalable solutions. I love solving code-based problems and writing elegant code 
   <b>Contact me</b>
   <br>
   Want to get in touch? You can add me on Discord (nicknickolson)
-  <br>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitnickolson&theme=tokyonight" alt="GitHub Contributions" />
-  </p>
 </body>
 </html>
