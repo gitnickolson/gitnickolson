@@ -10,7 +10,7 @@ with code at the age of 15 and have been passionate about it ever since! Current
 Ruby.
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gitnickolson&title=Commits&title=Experience&theme=onedark" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gitnickolson&title=Commits&title=Experience&title=LongTimeUser&theme=onedark" alt="GitHub Trophy" />
   </p>
 
 <b>Technologies and Tools</b>
