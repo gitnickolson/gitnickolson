@@ -6,12 +6,9 @@
 <b>About me</b>
 <br>
 I'm a full-time software engineer from Germany, currently focused on backend programming. I began experimenting
-with code at the age of 15 and have been passionate about it ever since! Currently, I'm primarily working with
-Ruby.
+with code at the age of 15 and have been passionate about it ever since! I'm primarily enjoying my time with Ruby
+at the moment.
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gitnickolson&title=Commits&title=Experience&theme=onedark" alt="GitHub Trophy" />
-  </p>
 
 <b>Technologies and Tools</b>
 <br>
@@ -26,11 +23,13 @@ Ruby.
 <b>What else?</b>
 <br>
 My main interests lie in application development, where I can apply my skills and passions to create efficient and
-scalable solutions. I love solving code-based problems and writing elegant code that is easy to maintain and extend. By the way: Coding isn't my entire life! In my free time, I enjoy diving into gaming adventures or exploring the fascinating worlds of anime and manga.
+scalable solutions. Besides coding, I also spend a lot of my free time diving into gaming adventures or exploring the fascinating 
+worlds of anime and manga. You can find some top lists regarding that in my 
+[frontend-playground](https://github.com/gitnickolson/frontend-playground) repository :P.
 
   <br>
   <b>Contact me</b>
   <br>
-  Want to get in touch? You can add me on Discord (nicknickolson)
+  Want to get in touch? You can shoot me a DM on Discord (nicknickolson).
 </body>
 </html>
