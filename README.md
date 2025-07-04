@@ -9,7 +9,7 @@ I'm a full-time software engineer from Germany, currently focused on backend pro
 with code at the age of 15 and have been passionate about it ever since! I'm primarily enjoying my time with Ruby
 at the moment.
 
-<br><br>
+
 <b>Technologies and Tools</b>
 <br>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
@@ -23,15 +23,13 @@ at the moment.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
 
-<br><br>
+
 <b>What else?</b>
 <br>
 My main interests lie in application development, where I can apply my skills and passions to create efficient and
 scalable solutions. Besides coding, I also spend a lot of my free time diving into gaming adventures or exploring the fascinating
-worlds of anime and manga. You can find some top lists regarding that in my
-<a href="https://github.com/gitnickolson/frontend-playground">frontend-playground</a> repository :P.
+worlds of anime and manga.
 
-<br><br>
 <b>Contact me</b>
 <br>
 Want to get in touch? You can shoot me a DM on Discord (nicknickolson).
