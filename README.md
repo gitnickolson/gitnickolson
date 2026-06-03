@@ -1,7 +1,5 @@
-### gitnickolson
-
 My name is Nick and I’m a software engineer from Germany with focus on web development, though I am always eager to learn new stuff. Other than that I’m absolutely obsessed with raccoons!
-<br><br>
+
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠫<br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣵⢹⣿⣿⣿⠛⢱⣾<br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⣭⣽⡾⠻⢷⣝⢟⣵⣟⣼⣿<br>
@@ -11,9 +9,10 @@ My name is Nick and I’m a software engineer from Germany with focus on web dev
 ⣿⣿⣿⣿⣿⣿⣿⣿⠿⢋⣥⡭⣏⣼⣿⣿⣿⣟⣽⡌⣿⣿⣿<br>
 ⣿⣿⠿⣛⡉⠉⠉⣭⠓⢟⣽⣾⣵⣿⣿⣿⣯⣾⣿⣿⣹⣿⣿<br>
 ⡟⣀⠀⠘⣿⡀⠀⢸⢠⣿⣿⡇⣿⣿⣿⣧⣿⣿⣿⡿⣼⣿⣿<br>
-⣷⣾⣤⣤⣼⣃⣤⣉⣘⣻⣟⣿⣭⣿⣛⣛⣿⣛⣛⣚⣿⣿⣿<br>
+⣷⣾⣤⣤⣼⣃⣤⣉⣘⣻⣟⣿⣭⣿⣛⣛⣿⣛⣛⣚⣿⣿⣿
 
 ### Techstack
+
 [![Ruby](https://img.shields.io/badge/Ruby-E34F26?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 <br>
@@ -26,6 +25,6 @@ My name is Nick and I’m a software engineer from Germany with focus on web dev
 [![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-
 ### Other
+
 If you want to get in touch you can DM me on Discord (nicknickolson) or Fluxer (nicknickolson#0001) :>
