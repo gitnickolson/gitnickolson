@@ -1,5 +1,6 @@
 My name is Nick and I’m a software engineer from Germany with focus on web development, though I am always eager to learn new stuff. Other than that I’m absolutely obsessed with raccoons!
 
+<p align="center">
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠫<br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣵⢹⣿⣿⣿⠛⢱⣾<br>
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⣭⣽⡾⠻⢷⣝⢟⣵⣟⣼⣿<br>
@@ -10,6 +11,7 @@ My name is Nick and I’m a software engineer from Germany with focus on web dev
 ⣿⣿⠿⣛⡉⠉⠉⣭⠓⢟⣽⣾⣵⣿⣿⣿⣯⣾⣿⣿⣹⣿⣿<br>
 ⡟⣀⠀⠘⣿⡀⠀⢸⢠⣿⣿⡇⣿⣿⣿⣧⣿⣿⣿⡿⣼⣿⣿<br>
 ⣷⣾⣤⣤⣼⣃⣤⣉⣘⣻⣟⣿⣭⣿⣛⣛⣿⣛⣛⣚⣿⣿⣿
+</p>
 
 ### Techstack
 
